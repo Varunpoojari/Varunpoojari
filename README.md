@@ -14,9 +14,8 @@ I love Data Science and Cyber Security, and am always looking to learn something
 **About Me:**
 
 - 👨🏻‍💻 I’m currently working on some cool personal Projects;
-- 👨 My Hobbies are Cubing, Typing, Reading and Travelling!;
-- 🚀 I’m currently learning Data Structures, Algorithms, Web Development and Unity;
-- 💬 Ask me about anything, I am happy to help;
+- 👨 My Hobbies are Swimming, Trekking and Travelling!;
+- 🚀 I’m currently learning Machine learning, SQL injection, Web Development and Cybersecurity;
 - 📫 To contact or Know more about me and my Projects, Visit [My Website]()
 
 
