@@ -25,7 +25,7 @@ I love Data Science and Cyber Security, and am always looking to learn something
 
 📈 **Here are my GitHub Stats:**
 
-[![My Stats]()
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 ![Commits]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpoojari&show_icons=true&theme=material-palenight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
