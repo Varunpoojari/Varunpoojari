@@ -21,7 +21,9 @@ I love Data Science and Cyber Security, and am always looking to learn something
 
 </br>
 
-
+ - name: generate-snake-game-from-github-contribution-grid
+ uses: Platane/snk@v3.2.0
+            
 📈 **Here are my GitHub Stats:**
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
