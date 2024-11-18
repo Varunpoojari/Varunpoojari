@@ -9,18 +9,28 @@
 
 
 I am a student at [MIT World Peace University](https://mitwpu.edu.in/admissions), Pune, India and am currently doing B.Tech in Computer Science & Engineering (Cyber Security and Forensics). 
-I love Data Science and Cyber Security, and am always looking to learn something new!
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and am always looking to learn something new!
 
 **About Me:**
 
 - 👨🏻‍💻 I’m currently working on some cool personal Projects;
 - 👨 My Hobbies are Swimming, Trekking and Travelling!;
 - 🚀 I’m currently learning Cybersecurity;
-- 📫 To contact or Know more about me and my Projects, Visit [My Website](https://bento.me/varunpoojari)
+- 📫 To contact or Know more about me, Visit [My Website](https://bento.me/varunpoojari)
 
 
 </br>
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 📈 **Here are my GitHub Stats:**
 
