@@ -66,7 +66,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-NDE-007ACC?&style=for-the-badge&logo=EC-COUNCIL&logoColor=white" />
 <img src="https://img.shields.io/badge/-EHE-4D4D4D?&style=for-the-badge&logo=EC-COUNCIL&logoColor=white" />
 <img src="https://img.shields.io/badge/-DFE-006400?&style=for-the-badge&logo=EC-COUNCIL&Color=white" />
-<img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logo=EC-COUNCIL&Color=white" />
+<img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logo=ECCOUNCIL&Color=white" />
 </div>
 
 ## Projects
