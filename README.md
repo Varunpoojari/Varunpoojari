@@ -35,6 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  |<a href="https://google.com">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation |<a href="https://google.com">Detection Lab</a>|
 
+</br>
 
 ## Tools: 
 
@@ -60,6 +61,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+
+</br>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CEH v12-FF0000?&style=for-the-badge&logo=EC-COUNCIL&logoColor=white" />
@@ -69,9 +73,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logo=ECCOUNCIL&Color=white" />
 </div>
 
+
+</br>
+
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+
+</br>
+
 
 
 ## 📈 Here are my GitHub Stats:
