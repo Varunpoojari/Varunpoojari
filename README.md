@@ -11,7 +11,7 @@
 I am a student at [MIT World Peace University](https://mitwpu.edu.in/admissions), Pune, India and am currently doing B.Tech in Computer Science & Engineering (Cyber Security and Forensics). 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field and am always looking to learn something new!
 
-**About Me:**
+## About Me:
 
 - 👨🏻‍💻 I’m currently working on some cool personal Projects;
 - 👨 My Hobbies are Swimming, Trekking and Travelling!;
@@ -20,7 +20,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 </br>
-**Skills:**
+
+
+## Skills:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -34,7 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation |<a href="https://google.com">Detection Lab</a>|
 
 
-** Tools: **
+## Tools: 
 
 
 ### Network
@@ -72,7 +74,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 
 
-📈 **Here are my GitHub Stats:**
+## 📈 Here are my GitHub Stats:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=Varunpoojari&theme=material-palenight)
