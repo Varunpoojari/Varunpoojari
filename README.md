@@ -111,8 +111,11 @@ Digital Forensics      ████████░░░░░  70%
 ## 📫 Connect With Me
 For professional inquiries or collaboration opportunities:
 - 💼 LinkedIn: [Varun Poojari](https://www.linkedin.com/in/varunpoojari50/)
-- 🌐 Website: [Portfolio](https://bento.me/varunpoojari)
+- 🌐 Website: [Portfolio](https://varunpoojari.netlify.app)
 - 📧 Email: varunrpoojari50@gmail.com
 
 ---
 *"Security is not a product, but a process." - Bruce Schneier*
+
+
+<img src="terminal.svg" width="800" alt="Terminal Animation">
