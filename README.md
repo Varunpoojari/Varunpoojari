@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunpoojari/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itsVarunPujary)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varunpoojari.netlify.app)
-[![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]()
+[![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/login)
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/VarunPoojari)
 
 ## 🛡️ About Me
