@@ -20,7 +20,7 @@ Cybersecurity Professional specializing in Malware Analysis, Incident Response, 
 
 ### 🔐 Cybersecurity Domains
 ```text
-Malware Analysis        ███████████░░  90%
+Malware Analysis       ███████████░░  90%
 Incident Response      ████████░░░░░  70%
 Network Security       ████████░░░░░  70%
 SIEM Implementation    ███████████░░  90%
