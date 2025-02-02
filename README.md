@@ -73,7 +73,7 @@ Digital Forensics      ████████░░░░░  70%
 
 ## 🚀 Featured Projects
 
-### [Malware Analysis Lab](https://github.com/your-repo)
+### [Malware Analysis Lab](https://github.com/Varunpoojari/Malware_Analysis_Lab)
 - 🔬 Automated malware analysis environment
 - 📊 Dynamic and static analysis capabilities
 - 🤖 Machine learning-based detection
