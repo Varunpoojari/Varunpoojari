@@ -94,28 +94,13 @@ Digital Forensics      ████████░░░░░  70%
 # 📊 GitHub Analytics
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Varunpoojari&theme=radical&hide_border=true&background=0D1117" />
+  <!-- GitHub Stats and Streak side by side -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Varunpoojari&theme=radical&hide_border=true" />
 
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpoojari&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117" />
-  
-  <!-- GitHub Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varunpoojari&theme=rogue&hide_border=true" />
-  
-  <!-- GitHub Trophies -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Varunpoojari&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpoojari&theme=radical&hide_border=true&layout=compact&langs_count=6" />
 </div>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varunpoojari&label=Profile%20views&color=ff0000&style=flat" alt="Profile views" />
-</p>
 
 ## 🎯 Current Focus
 - 🔍 Advanced Malware Analysis Techniques
