@@ -95,8 +95,8 @@ Digital Forensics      ████████░░░░░  70%
 
 <div align="center">
   <!-- GitHub Stats and Streak side by side -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Varunpoojari&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&theme=radical&hide_border=true" />
+ 
 
   <!-- Most Used Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpoojari&theme=radical&hide_border=true&layout=compact&langs_count=6" />
