@@ -111,7 +111,7 @@ Digital Forensics      ████████░░░░░  70%
 ## 📫 Connect With Me
 For professional inquiries or collaboration opportunities:
 - 💼 LinkedIn: [Varun Poojari](https://www.linkedin.com/in/varunpoojari50/)
-- 🌐 Website: [Portfolio](https://varunpoojari.netlify.app)
+- 🌐 Website: [Portfolio](https://iamvarunpoojari.netlify.app)
 - 📧 Email: varunrpoojari50@gmail.com
 
 ---
