@@ -188,11 +188,7 @@ ML-driven honeypot that adapts to attacker behaviour.
 ## `> ./github_telemetry`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Varunpoojari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00D4FF&text_color=C9D1D9&ring_color=00FF9C&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunpoojari&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varunpoojari&bg_color=0D1117&color=00FF9C&line=00D4FF&point=00FF9C&area=true&area_color=00FF9C&hide_border=true" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=Varunpoojari&theme=dark&background=0D1117&border=30363D&ring=00FF9C&fire=00FF9C&currStreakNum=00FF9C&currStreakLabel=00FF9C&sideNums=C9D1D9&sideLabels=00D4FF&dates=8B949E&stroke=30363D&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
