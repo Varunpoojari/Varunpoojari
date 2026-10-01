@@ -74,7 +74,7 @@ Led a 10-person team building a smart-contract auditing tool that integrates 6 o
 ## 📜 Certifications
 
 ![CEH](https://img.shields.io/badge/CEH_v12-EC--Council-C8102E?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001:2022-Associate-1F4E79?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-Associate-1F4E79?style=flat-square)
 ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)
 ![EC-Council](https://img.shields.io/badge/EC--Council-EHE_·_NDE_·_DFE-C8102E?style=flat-square)
 ![eJPT](https://img.shields.io/badge/eJPT-in_progress-lightgrey?style=flat-square)
