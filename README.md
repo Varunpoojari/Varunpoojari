@@ -50,6 +50,27 @@ looking_for: Graduate / entry-level Cybersecurity & SOC Analyst roles in Ireland
 
 ---
 
+## `> git log --upstream --author="Varun Poojari"`
+
+<p align="center">
+  <a href="https://github.com/SigmaHQ/sigma/pull/6362"><img src="assets/siem-alert.svg" width="100%" alt="SIEM alert card: TCC Permissions Reset Via Tccutil — Sigma rule contributed to SigmaHQ (PR #6362)" /></a>
+</p>
+
+| Project | Contribution | Status |
+|:--|:--|:--|
+| 🛡️ [**SigmaHQ/sigma**](https://github.com/SigmaHQ/sigma) | [PR #6362](https://github.com/SigmaHQ/sigma/pull/6362) — macOS detection rule for TCC permission resets via `tccutil` (ATT&CK **T1548.006**), built from real Endpoint Security telemetry and validated 8/8 | <img src="https://img.shields.io/github/pulls/detail/state/SigmaHQ/sigma/6362?style=flat-square&labelColor=0A0E14&label=PR" /> |
+| 🍯 [**paralax/awesome-honeypots**](https://github.com/paralax/awesome-honeypots) | [PR #172](https://github.com/paralax/awesome-honeypots/pull/172) — added my Adaptive AI Honeypot System to the curated list | <img src="https://img.shields.io/github/pulls/detail/state/paralax/awesome-honeypots/172?style=flat-square&labelColor=0A0E14&label=PR" /> |
+
+---
+
+## `> ./attack_coverage --matrix`
+
+<p align="center">
+  <img src="assets/attack-map.svg" width="100%" alt="MITRE ATT&CK and ATLAS coverage map of techniques detected by my projects and rules" />
+</p>
+
+---
+
 ## `> ./featured_projects --sort impact`
 
 <table>
@@ -175,6 +196,7 @@ ML-driven honeypot that adapts to attacker behaviour.
 ## `> tail -f ./highlights.log`
 
 ```diff
++ [2026-10] Contributed a macOS detection rule to SigmaHQ (PR #6362) — ATT&CK T1548.006
 + [2026-09] Joined Rakfort (Dublin) as AI Security Intern — red-teaming LLM apps
 + [2026-08] Completed MSc Cyber Security, National College of Ireland
 + [2026-02] OWASP Dublin Meetup — AI-driven WAF security & zero-day threat landscape
