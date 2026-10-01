@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0E14"/><stop offset="1" stop-color="#07130f"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00FF9C" stop-opacity="0"/><stop offset=".5" stop-color="#00FF9C" stop-opacity=".10"/><stop offset="1" stop-color="#00FF9C" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#00FF9C" stroke-opacity=".05"/></pattern>
+<clipPath id="c"><rect x="1" y="1" width="898" height="358" rx="14"/></clipPath>
+<style>
+.l{fill:#5f8f7b;font-size:12px;letter-spacing:1px}
+.v{fill:#d6f5e6;font-size:14px}
+.pulse{animation:p 1.4s ease-in-out infinite}
+@keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+.type{clip-path:inset(0 100% 0 0);animation:t 3.2s steps(70) .6s forwards}
+@keyframes t{to{clip-path:inset(0 0 0 0)}}
+.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:b 1.6s ease-out 3.6s forwards}
+@keyframes b{to{transform:scaleX(1)}}
+.fade{opacity:0;animation:f .6s ease-out 5.2s forwards}
+@keyframes f{to{opacity:1}}
+.sweep{animation:s 4s linear infinite}
+@keyframes s{from{transform:translateY(-120px)}to{transform:translateY(380px)}}
+</style>
+</defs>
+<g clip-path="url(#c)">
+<rect width="900" height="360" fill="url(#bg)"/>
+<rect width="900" height="360" fill="url(#grid)"/>
+<rect class="sweep" width="900" height="120" fill="url(#scan)"/>
+<rect width="900" height="46" fill="#0d1a15"/>
+<rect width="6" height="360" fill="#FFBD2E"/>
+<circle class="pulse" cx="30" cy="23" r="6" fill="#FF5F56"/>
+<text x="46" y="28" fill="#FF5F56" font-size="13" font-weight="700" letter-spacing="2">DETECTION FIRED</text>
+<text x="218" y="28" fill="#5f8f7b" font-size="13">sigma://rules/macos/process_creation</text>
+<rect x="640" y="12" width="110" height="22" rx="11" fill="#FFBD2E" fill-opacity=".12" stroke="#FFBD2E"/>
+<text x="695" y="27" fill="#FFBD2E" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1">SEV: MEDIUM</text>
+<rect x="760" y="12" width="124" height="22" rx="11" fill="#00D4FF" fill-opacity=".12" stroke="#00D4FF"/>
+<text x="822" y="27" fill="#00D4FF" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1">macOS · EDR</text>
+<text x="28" y="86" fill="#ffffff" font-size="24" font-weight="700">TCC Permissions Reset Via Tccutil</text>
+<text x="28" y="110" fill="#8B949E" font-size="13">Upstream detection rule · contributed to SigmaHQ, the open-source detection standard</text>
+<text x="28" y="146" class="l">MITRE ATT&amp;CK</text><text x="28" y="166" class="v"><tspan fill="#00FF9C" font-weight="700">T1548.006</tspan> TCC Manipulation</text>
+<text x="330" y="146" class="l">TACTIC</text><text x="330" y="166" class="v">privilege-escalation</text>
+<text x="540" y="146" class="l">TELEMETRY</text><text x="540" y="166" class="v">eslogger · Endpoint Security</text>
+<text x="28" y="200" class="l">AUTHOR</text><text x="28" y="220" class="v">Varun Poojari</text>
+<text x="330" y="200" class="l">UPSTREAM</text><text x="330" y="220" class="v"><tspan fill="#00D4FF">SigmaHQ/sigma</tspan> PR #6362</text>
+<text x="540" y="200" class="l">CONVERTS TO</text><text x="540" y="220" class="v">Splunk · Elastic · Sentinel</text>
+<rect x="28" y="238" width="844" height="38" rx="8" fill="#000" fill-opacity=".55" stroke="#1f3d31"/>
+<text x="44" y="262" fill="#d6f5e6" font-size="13" class="type"><tspan fill="#00FF9C">$</tspan> match <tspan fill="#8fc9ff">Image</tspan>|endswith <tspan fill="#ffd58a">'/tccutil'</tspan> AND <tspan fill="#8fc9ff">CommandLine</tspan> ∋ <tspan fill="#ffd58a">' reset '</tspan> AND (<tspan fill="#ffd58a">' AppleEvents'</tspan> | <tspan fill="#ffd58a">' All'</tspan>)</text>
+<text x="28" y="306" class="l">VALIDATION</text>
+<rect x="130" y="296" width="300" height="12" rx="6" fill="#123b2c"/>
+<rect class="bar" x="130" y="296" width="300" height="12" rx="6" fill="#00FF9C"/>
+<text x="446" y="307" fill="#00FF9C" font-size="13" font-weight="700" class="fade">8/8 scenarios ✔   sigma check: 0 errors · 0 issues</text>
+<text x="28" y="340" fill="#5f8f7b" font-size="12">status:</text>
+<circle class="pulse" cx="92" cy="336" r="5" fill="#FFBD2E"/>
+<text x="104" y="340" fill="#FFBD2E" font-size="12" font-weight="700">IN REVIEW</text>
+<text x="872" y="340" fill="#5f8f7b" font-size="12" text-anchor="end">id 8e937b49-ea64-4f7b-9797-0c59a0a0a5dc</text>
+</g>
+<rect x="1" y="1" width="898" height="358" rx="14" fill="none" stroke="#1f5a44"/>
+</svg>
