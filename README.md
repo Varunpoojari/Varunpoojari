@@ -44,6 +44,7 @@ Led a 10-person team building a smart-contract auditing tool that integrates 6 o
 
 | Repository | Contribution | Status |
 |:--|:--|:--|
+| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | [#3028](https://github.com/microsoft/PyRIT/pull/3028): dataset loader for the MITRE benchmark of Meta's CyberSecEval (1,000 prompts across ten ATT&CK categories) | ![](https://img.shields.io/github/pulls/detail/state/microsoft/PyRIT/3028?style=flat-square&label=PR) |
 | [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) | [#6362](https://github.com/SigmaHQ/sigma/pull/6362): detection rule for TCC permission resets via `tccutil` on macOS (ATT&CK T1548.006) | ![](https://img.shields.io/github/pulls/detail/state/SigmaHQ/sigma/6362?style=flat-square&label=PR) |
 | [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) | [#172](https://github.com/paralax/awesome-honeypots/pull/172): added Adaptive AI Honeypot System to the list | ![](https://img.shields.io/github/pulls/detail/state/paralax/awesome-honeypots/172?style=flat-square&label=PR) |
 
