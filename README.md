@@ -15,6 +15,7 @@
 I'm a cybersecurity graduate based in **Dublin, Ireland**, working where **security operations** meets **AI security**.
 
 - 🔭 Currently an **AI Security Intern at Rakfort**, testing LLM applications against the OWASP LLM Top 10 and mapping risks to MITRE ATLAS
+- 🤖 Contributor to **[Microsoft PyRIT](https://github.com/microsoft/PyRIT/pull/3028)**: added a loader that brings Meta's CyberSecEval attack benchmark into PyRIT (merged)
 - 🛡️ Contributed a macOS detection rule to **[SigmaHQ](https://github.com/SigmaHQ/sigma/pull/6362)**, the open-source detection rule standard
 - 🎓 **MSc Cyber Security**, National College of Ireland · **BTech CSE (Cyber Security & Forensics)**, MIT-WPU
 - 🎤 Speaker at **DevConf.IN 2025 (Red Hat)** · Published at **Springer ICACIS 2024**
@@ -44,8 +45,9 @@ Led a 10-person team building a smart-contract auditing tool that integrates 6 o
 
 | Repository | Contribution | Status |
 |:--|:--|:--|
-| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | [#3028](https://github.com/microsoft/PyRIT/pull/3028): dataset loader for the MITRE benchmark of Meta's CyberSecEval (1,000 prompts across ten ATT&CK categories) | ![](https://img.shields.io/github/pulls/detail/state/microsoft/PyRIT/3028?style=flat-square&label=PR) |
+| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | [#3028](https://github.com/microsoft/PyRIT/pull/3028): loader for the MITRE benchmark of Meta's CyberSecEval (1,000 prompts across ten ATT&CK categories, 27 tests) | ![](https://img.shields.io/github/pulls/detail/state/microsoft/PyRIT/3028?style=flat-square&label=PR) |
 | [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) | [#6362](https://github.com/SigmaHQ/sigma/pull/6362): detection rule for TCC permission resets via `tccutil` on macOS (ATT&CK T1548.006) | ![](https://img.shields.io/github/pulls/detail/state/SigmaHQ/sigma/6362?style=flat-square&label=PR) |
+| [secfoo-com/secfoo](https://github.com/secfoo-com/secfoo) | [4 PRs](https://github.com/secfoo-com/secfoo/pulls?q=is%3Apr+author%3AVarunpoojari): Codex CLI agent adapter, Codex token cost tracking, Claude adapter hardening, date validation | ![](https://img.shields.io/badge/4_merged-8957e5?style=flat-square) |
 | [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) | [#172](https://github.com/paralax/awesome-honeypots/pull/172): added Adaptive AI Honeypot System to the list | ![](https://img.shields.io/github/pulls/detail/state/paralax/awesome-honeypots/172?style=flat-square&label=PR) |
 
 ## 🛠️ Tech Stack
