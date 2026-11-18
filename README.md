@@ -16,11 +16,12 @@ I'm a cybersecurity graduate based in **Dublin, Ireland**, working where **secur
 
 - 🔭 Currently an **AI Security Intern at Rakfort**, testing LLM applications against the OWASP LLM Top 10 and mapping risks to MITRE ATLAS
 - 🤖 Contributor to **[Microsoft PyRIT](https://github.com/microsoft/PyRIT/pull/3028)**: added two merged loaders that bring Meta's CyberSecEval attack and prompt injection benchmarks into PyRIT
-- 🛡️ Contributed a macOS detection rule to **[SigmaHQ](https://github.com/SigmaHQ/sigma/pull/6362)**, the open-source detection rule standard
+- 🛡️ Detection engineering upstream: fixing broken Windows persistence logic in **[Splunk security_content](https://github.com/splunk/security_content/pull/4429)** and a macOS rule for **[SigmaHQ](https://github.com/SigmaHQ/sigma/pull/6362)**
+- 🧪 Hardening LLM evaluation against prompt injection in **[promptfoo](https://github.com/promptfoo/promptfoo/pull/11898)**
 - 🎓 **MSc Cyber Security**, National College of Ireland · **BTech CSE (Cyber Security & Forensics)**, MIT-WPU
 - 🎤 Speaker at **DevConf.IN 2025 (Red Hat)** · Published at **Springer ICACIS 2024**
 - 📚 Currently studying for **eJPT** and **CompTIA Security+**
-- 💼 Open to **Graduate / SOC Analyst / Detection Engineering** roles in Ireland · Stamp 1G (full work rights to Oct 2028)
+- 💼 Open to **Graduate / SOC Analyst / Detection Engineering / AI Red Teaming** roles in Ireland · Stamp 1G (full work rights to Oct 2028)
 
 ## 💼 Experience
 
@@ -35,6 +36,7 @@ Led a 10-person team building a smart-contract auditing tool that integrates 6 o
 | Project | Description | Stack |
 |:--|:--|:--|
 | [**Pentest Suite**](https://github.com/Varunpoojari/pentest-suite) · [demo](https://pentest-suite.vercel.app/) | Multi-AI penetration testing framework with 12 modules (XSS, SQLi, SSRF, RCE) and a 0–100 risk score | Next.js, TypeScript, LLMs |
+| [**MemHalfLife**](https://github.com/Varunpoojari/memhalflife) | Measures how long fileless and living-off-the-land attack evidence survives in memory, with decay curves, evidence half-lives and an acquisition-SLA simulator (Windows + Linux cloud VMs) | Python, Volatility 3 |
 | [**Malware Analysis Lab**](https://github.com/Varunpoojari/Malware_Analysis_Lab) | Static analysis toolkit for 50+ file types with YARA rules and hashing (95% detection accuracy) | Python, YARA |
 | [**Adaptive AI Honeypot**](https://github.com/Varunpoojari/Adaptive_AI_Honeypot_System) | ML-driven honeypot that classifies 100+ attack events in real time | Python, ML, Docker |
 | [**Network IDS (ML)**](https://github.com/Varunpoojari/Network-Intrusion-Detection-System-using-Machine-Learning) | Machine-learning based network intrusion detection | Python, ML |
@@ -47,8 +49,10 @@ Led a 10-person team building a smart-contract auditing tool that integrates 6 o
 |:--|:--|:--|
 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | [#3419](https://github.com/microsoft/PyRIT/pull/3419): loader for CyberSecEval's prompt injection benchmark (251 direct and indirect injection test cases across 15 techniques) | ![](https://img.shields.io/github/pulls/detail/state/microsoft/PyRIT/3419?style=flat-square&label=PR) |
 | [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | [#3028](https://github.com/microsoft/PyRIT/pull/3028): loader for the MITRE benchmark of Meta's CyberSecEval (1,000 prompts across ten ATT&CK categories, 48 tests) | ![](https://img.shields.io/github/pulls/detail/state/microsoft/PyRIT/3028?style=flat-square&label=PR) |
+| [splunk/security_content](https://github.com/splunk/security_content) | [#4429](https://github.com/splunk/security_content/pull/4429): fixed seven never-matching clauses in the *Registry Keys Used For Persistence* detection (Sysmon EID 13 path mapping) | ![](https://img.shields.io/github/pulls/detail/state/splunk/security_content/4429?style=flat-square&label=PR) |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | [#11898](https://github.com/promptfoo/promptfoo/pull/11898): made the `search-rubric` grader treat model output and web results as untrusted, closing a prompt injection path | ![](https://img.shields.io/github/pulls/detail/state/promptfoo/promptfoo/11898?style=flat-square&label=PR) |
 | [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) | [#6362](https://github.com/SigmaHQ/sigma/pull/6362): detection rule for TCC permission resets via `tccutil` on macOS (ATT&CK T1548.006) | ![](https://img.shields.io/github/pulls/detail/state/SigmaHQ/sigma/6362?style=flat-square&label=PR) |
-| [secfoo-com/secfoo](https://github.com/secfoo-com/secfoo) | [4 PRs](https://github.com/secfoo-com/secfoo/pulls?q=is%3Apr+author%3AVarunpoojari): Codex CLI agent adapter, Codex token cost tracking, Claude adapter hardening, date validation | ![](https://img.shields.io/badge/4_merged-8957e5?style=flat-square) |
+| [secfoo-com/secfoo](https://github.com/secfoo-com/secfoo) | [6 PRs](https://github.com/secfoo-com/secfoo/pulls?q=is%3Apr+author%3AVarunpoojari): Codex CLI agent adapter, Codex token cost tracking, Claude adapter hardening, AI spend reporting fix, dashboard severity labels, date validation | ![](https://img.shields.io/badge/6_merged-8957e5?style=flat-square) |
 | [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) | [#172](https://github.com/paralax/awesome-honeypots/pull/172): added Adaptive AI Honeypot System to the list | ![](https://img.shields.io/github/pulls/detail/state/paralax/awesome-honeypots/172?style=flat-square&label=PR) |
 
 ## 🛠️ Tech Stack
