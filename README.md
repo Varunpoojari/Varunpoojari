@@ -28,7 +28,7 @@ I'm a cybersecurity graduate based in **Dublin, Ireland**, working where **secur
 **AI Security Engineer** · Rakfort, Dublin · *Sep 2026 – Present*<br/>
 Assessing LLM apps for prompt injection, data leakage and insecure agent/webhook integrations; building Python automation for LLM-assisted alert triage.
 
-**Cyber Security** · Aether Shield Technologies, Pune · *Jul 2024 – Jan 2025*<br/>
+**Cyber Security Intern** · Aether Shield Technologies, Pune · *Jul 2024 – Jan 2025*<br/>
 Led a 10-person team building a smart-contract auditing tool that integrates 6 open-source frameworks (+20% delivery speed); ran security awareness workshops.
 
 ## 🚀 Featured Projects
