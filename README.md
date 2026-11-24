@@ -14,7 +14,7 @@
 
 I'm a cybersecurity graduate based in **Dublin, Ireland**, working where **security operations** meets **AI security**.
 
-- 🔭 Currently an **AI Security Intern at Rakfort**, testing LLM applications against the OWASP LLM Top 10 and mapping risks to MITRE ATLAS
+- 🔭 Currently an **AI Security Engineer at Rakfort**, testing LLM applications against the OWASP LLM Top 10 and mapping risks to MITRE ATLAS
 - 🤖 Contributor to **[Microsoft PyRIT](https://github.com/microsoft/PyRIT/pull/3028)**: added two merged loaders that bring Meta's CyberSecEval attack and prompt injection benchmarks into PyRIT
 - 🛡️ Detection engineering upstream: fixing broken Windows persistence logic in **[Splunk security_content](https://github.com/splunk/security_content/pull/4429)** and a macOS rule for **[SigmaHQ](https://github.com/SigmaHQ/sigma/pull/6362)**
 - 🧪 Hardening LLM evaluation against prompt injection in **[promptfoo](https://github.com/promptfoo/promptfoo/pull/11898)**
@@ -25,10 +25,10 @@ I'm a cybersecurity graduate based in **Dublin, Ireland**, working where **secur
 
 ## 💼 Experience
 
-**AI Security Intern** · Rakfort, Dublin · *Sep 2026 – Present*<br/>
+**AI Security Engineer** · Rakfort, Dublin · *Sep 2026 – Present*<br/>
 Assessing LLM apps for prompt injection, data leakage and insecure agent/webhook integrations; building Python automation for LLM-assisted alert triage.
 
-**Cyber Security Intern** · Aether Shield Technologies, Pune · *Jul 2024 – Jan 2025*<br/>
+**Cyber Security** · Aether Shield Technologies, Pune · *Jul 2024 – Jan 2025*<br/>
 Led a 10-person team building a smart-contract auditing tool that integrates 6 open-source frameworks (+20% delivery speed); ran security awareness workshops.
 
 ## 🚀 Featured Projects
